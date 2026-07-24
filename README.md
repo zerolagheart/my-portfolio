@@ -85,7 +85,7 @@ You can download my latest resume directly from the portfolio website.
 
 - 💼 LinkedIn: https://linkedin.com/in/titikshayadav/
 - 💻 GitHub: https://github.com/zerolagheart
-- 📧 Email: maito:titikshayadav6144@gmail.com
+- 📧 Email: titikshayadav6144@gmail.com
 
 ---
 

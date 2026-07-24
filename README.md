@@ -23,7 +23,7 @@ This portfolio showcases my journey as a **UI/UX Designer** and **Human-Computer
 
 ## 🚀 Live Demo
 
-👉 **Portfolio:** https://
+👉 **Portfolio:** [https://titiksha-portfolio.vercel.app/]
 
 ---
 

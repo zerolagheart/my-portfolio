@@ -5,8 +5,8 @@
 An interactive, futuristic portfolio exploring the intersection of machine learning, human experience, and interface design. Built to showcase selected projects, research interests, experience, and technical skills through an animated 3D visual experience.
 
 <p align="center">
-  <a href="YOUR_VERCEL_URL">Live Portfolio</a> ·
-  <a href="YOUR_GITHUB_USERNAME">GitHub Profile</a> ·
+  <a href="https://my-portfolio-hci.vercel.app/">Live Portfolio</a> ·
+  <a href="https://github.com/zerolagheart">GitHub Profile</a> ·
   <a href="mailto:titikshayadav6144@gmail.com">Contact</a>
 </p>
 
